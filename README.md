@@ -1,7 +1,7 @@
-**# Movinest**
-**Author**
+**Movinest**
 
-**Anthony Kimeu**
+**Author**
+Anthony Kimeu
 
 **Project setup instructions**
 
