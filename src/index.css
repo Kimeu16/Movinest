@@ -19,3 +19,15 @@
                 align-self: center;
                 margin-left: 20rem;
                 }  
+            .search {
+                    margin: 3rem;
+                    margin-left: 12rem;
+                    background-color: transparent;
+                    border: 2px solid #e9e9ec;
+                    border-radius: 50px;
+                    color: #fff;
+                    font-family: inherit;
+                    font-size: 1rem;
+                    padding: 0.5rem 1rem;
+                    }
+                    
