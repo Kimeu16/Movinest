@@ -119,3 +119,8 @@ div{
 .movie:hover .overview {
     transform: translateY(0);
 }
+
+#contact{
+    background-color: yellow;
+    font-size: 20px;
+}
