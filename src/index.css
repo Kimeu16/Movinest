@@ -52,4 +52,34 @@
                             justify-content: center;
                             align-content: center;
                             width: 265px;
-                        }                   
+                        } 
+                        .movie img {
+                            width: 100%;
+                        }
+                        .movie-info {
+                            color: #eee;
+                            display: flex;
+                            flex-direction: column;
+                            align-items: center;
+                            justify-content: center;
+                            padding: 0.5rem 1rem 1rem;
+                            letter-spacing: 0.5px;
+                        }
+                        .movie-info h3 {
+                            margin: 0;
+                        }
+                        .movie-info span {
+                            background-color: #22254B;
+                            border-radius: 3px;
+                            font-weight: bold;
+                            padding: 0.25rem 0.8rem;
+                        }
+                        .movie-info span.green {
+                            color: rgb(39, 189, 39);
+                        }
+                        .movie-info span.orange {
+                            color: orange;
+                        }
+                        .movie-info span.red {
+                            color: rgb(189, 42, 42);
+                        }                                         
